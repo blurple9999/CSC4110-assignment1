@@ -1,4 +1,6 @@
 // Simple C++ program to display "Hello World" 
+// Author: Dom (Alula) Potres <alula3456@protonmail.com>
+
 // Header file for input output functions 
 #include<iostream>  
   
