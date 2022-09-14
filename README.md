@@ -1,3 +1,3 @@
-# CSC4110-assignment1
+# Github and Git
 ## Dom (Alula) Potres
 *GV6825*
